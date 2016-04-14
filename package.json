@@ -1,7 +1,7 @@
 {
   "name": "bunkr-client",
   "version": "1.0.0",
-  "description": "",
+  "description": "A light-weight SockJS client for Bunkr",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
