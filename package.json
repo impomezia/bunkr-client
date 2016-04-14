@@ -1,0 +1,26 @@
+{
+  "name": "bunkr-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impomezia/bunkr-client.git"
+  },
+  "author": "Alexander Sedov <imp@bunkr.org> (https://bunkr.chat)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/impomezia/bunkr-client/issues"
+  },
+  "homepage": "https://github.com/impomezia/bunkr-client#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "crc": "^3.4.0",
+    "lodash": "^4.11.0",
+    "node-fetch": "^1.5.1",
+    "sockjs-client": "^1.0.3"
+  }
+}
