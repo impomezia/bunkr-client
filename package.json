@@ -1,6 +1,6 @@
 {
   "name": "bunkr-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A light-weight SockJS client for Bunkr",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "crc": "^3.4.0",
     "lodash": "^4.11.0",
     "node-fetch": "^1.5.1",
+    "sjmp": "^1.1.2",
     "sockjs-client": "^1.0.3"
   }
 }
